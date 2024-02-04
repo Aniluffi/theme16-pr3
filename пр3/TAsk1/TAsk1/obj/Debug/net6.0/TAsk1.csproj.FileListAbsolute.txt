@@ -1,0 +1,15 @@
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\bin\Debug\net6.0\TAsk1.exe
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\bin\Debug\net6.0\TAsk1.deps.json
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\bin\Debug\net6.0\TAsk1.runtimeconfig.json
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\bin\Debug\net6.0\TAsk1.dll
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\bin\Debug\net6.0\TAsk1.pdb
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\obj\Debug\net6.0\TAsk1.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\obj\Debug\net6.0\TAsk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\obj\Debug\net6.0\TAsk1.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\obj\Debug\net6.0\TAsk1.AssemblyInfo.cs
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\obj\Debug\net6.0\TAsk1.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\obj\Debug\net6.0\TAsk1.dll
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\obj\Debug\net6.0\refint\TAsk1.dll
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\obj\Debug\net6.0\TAsk1.pdb
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\obj\Debug\net6.0\TAsk1.genruntimeconfig.cache
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk1\TAsk1\obj\Debug\net6.0\ref\TAsk1.dll

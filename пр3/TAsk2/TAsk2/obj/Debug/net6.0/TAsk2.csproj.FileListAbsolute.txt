@@ -1,0 +1,15 @@
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\obj\Debug\net6.0\TAsk2.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\obj\Debug\net6.0\TAsk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\obj\Debug\net6.0\TAsk2.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\obj\Debug\net6.0\TAsk2.AssemblyInfo.cs
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\obj\Debug\net6.0\TAsk2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\bin\Debug\net6.0\TAsk2.exe
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\bin\Debug\net6.0\TAsk2.deps.json
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\bin\Debug\net6.0\TAsk2.runtimeconfig.json
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\bin\Debug\net6.0\TAsk2.dll
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\bin\Debug\net6.0\TAsk2.pdb
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\obj\Debug\net6.0\TAsk2.dll
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\obj\Debug\net6.0\refint\TAsk2.dll
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\obj\Debug\net6.0\TAsk2.pdb
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\obj\Debug\net6.0\TAsk2.genruntimeconfig.cache
+C:\Users\aleks\Desktop\тема 16\пр3\TAsk2\TAsk2\obj\Debug\net6.0\ref\TAsk2.dll
